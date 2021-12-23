@@ -31,6 +31,4 @@ UUID=9b7a28f9-8755-4186-94d2-2627495cd846 /media/usb_ubuntu/ ext4 nofail,auto,de
 /media/volgrp/var/lib/docker/ /var/lib/docker/ none defaults,bind 0 0  
 /media/volgrp/var/lib/libvirt/ /var/lib/libvirt/ none defaults,bind 0 0  
 /media/zarchive/var/lib/transmission-daemon/ /var/lib/transmission-daemon/ none defaults,bind 0 0  
-# /media/volgrp/etc/netplan/ /etc/netplan/ none defaults,bind 0 0  
-# /media/volgrp/etc/NetworkManager/system-connections/ /etc/NetworkManager/system-connections/ none defaults,bind 0 0  
 /media/volgrp/root/.zsh_history /root/.zsh_history none defaults,bind 0 0  
