@@ -17,7 +17,7 @@ UUID=a79a32a8-6d9b-4537-9d69-48ced9cd0e2c /media/mldonkey/ ext4 nofail,auto,defa
 UUID=c9874588-5562-4800-8e56-c4964e357a6d /media/sdb1/ ext4 nofail,auto,defaults 0 0
 UUID=d9c51d54-6e19-4c18-b327-87d3bd1d373b /media/sdb2/ ext4 nofail,auto,defaults 0 0
 UUID=22b20a58-986b-4f85-a599-0ed2da307d02 /media/mirror1/ ext4 nofail,auto,defaults 0 0
-UUID=55f60ace-08af-4a0e-8641-931c7a1be3a8 /media/zarchive/ ext4 nofail,auto,defaults 0 0
+UUID=55f60ace-08af-4a0e-8641-931c7a1be3a8 /media/transmission/ ext4 nofail,auto,defaults 0 0
 UUID=143198e4-c286-4fc7-b204-1427670d2b21 /media/usb_backup_crypt_4T/ ext4 nofail,auto,defaults 0 0
 UUID=0f568033-36cc-4714-bb72-e2addc431222 /media/mirror2/ ext4 nofail,auto,defaults 0 0
 UUID=cac48f4e-851c-4ae3-bb92-d2b4eb586feb /media/timemachine/ ext4 nofail,auto,defaults 0 0
@@ -30,5 +30,5 @@ UUID=9b7a28f9-8755-4186-94d2-2627495cd846 /media/usb_ubuntu/ ext4 nofail,auto,de
 /media/volgrp/kubelet/ /var/lib/kubelet/ none defaults,bind 0 0  
 /media/volgrp/var/lib/docker/ /var/lib/docker/ none defaults,bind 0 0  
 /media/volgrp/var/lib/libvirt/ /var/lib/libvirt/ none defaults,bind 0 0  
-/media/zarchive/var/lib/transmission-daemon/ /var/lib/transmission-daemon/ none defaults,bind 0 0  
+/media/transmission/var/lib/transmission-daemon/ /var/lib/transmission-daemon/ none defaults,bind 0 0  
 /media/volgrp/root/.zsh_history /root/.zsh_history none defaults,bind 0 0  
