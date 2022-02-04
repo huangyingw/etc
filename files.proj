@@ -1289,6 +1289,7 @@
 "./netatalk/dbus-session.conf"
 "./netatalk/extmap.conf"
 "./netconfig"
+"./netplan/00-installer-config.yaml"
 "./netplan/01-network-manager-all.yaml"
 "./network/fan"
 "./network/if-down.d/avahi-autoipd"
