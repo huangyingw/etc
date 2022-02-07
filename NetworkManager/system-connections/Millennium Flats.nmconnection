@@ -1,6 +1,6 @@
 [connection]
 id=Millennium Flats
-uuid=ed44809a-5609-4297-926f-8c991a674dc1
+uuid=773de7ce-dfa6-43d1-b7a4-f53c1554fcc5
 type=wifi
 interface-name=wlan0
 permissions=
