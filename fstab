@@ -5,8 +5,8 @@
 # that works even if disks are added and removed. See fstab(5).
 #
 # <file system> <mount point>   <type>  <options>       <dump>  <pass>
-# / was on /dev/sdc1 during installation
-UUID=8f8a0a56-4889-46cb-a9f2-930708ef36c4 /               ext4    errors=remount-ro 0       1
+# / was on /dev/sda1 during installation
+UUID=c310f0a7-0402-4037-86b8-476b70f5f7fb /               ext4    errors=remount-ro 0       1
 UUID=8a371c29-3221-4b62-b384-66bbaffcbbfa /media/dev/sda2/  ext4 nofail,auto,user_xattr,defaults        0       2
 UUID=70aea2ce-b7b2-49af-b2f2-07913de9afff /media/volgrp/  ext4 nofail,auto,user_xattr,defaults        0       2
 UUID=d6938a8d-b454-4ce4-94e7-c420bda24ebe /media/usb_750GB/ ext4 nofail,auto,defaults 0 0
