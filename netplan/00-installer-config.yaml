@@ -1,12 +1,10 @@
 network:
   ethernets:
     eth0:
-      addresses:
-        - 192.168.31.140/24 
+      dhcp4: true
   version: 2
 
   bridges:
     br0:
       interfaces: [eth0]
-      addresses:
-        - 192.168.31.140/24 
+      dhcp4: yes
