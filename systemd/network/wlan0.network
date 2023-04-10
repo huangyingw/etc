@@ -1,0 +1,14 @@
+[Match]
+Name=wlan0
+
+[Network]
+DHCP=yes
+DNSSEC=no
+
+# Use same IP by forcing to use MAC address for clientID
+[DHCP]
+ClientIdentifier=mac
+
+# wpa_passphrase 'MiMesh2' 'HfA*c3Dx6u!7N3rohv' > /etc/wpa_supplicant/wpa_supplicant-wlan0.conf
+Add option country=US to /etc/wpa_supplicant/wpa_supplicant-wlan0.conf
+# systemctl enable wpa_supplicant@wlan0.service
