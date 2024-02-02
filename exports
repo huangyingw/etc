@@ -8,4 +8,4 @@
 # /srv/nfs4        gss/krb5i(rw,sync,fsid=0,crossmnt,no_subtree_check)
 # /srv/nfs4/homes  gss/krb5i(rw,sync,no_subtree_check)
 #
-/media/    192.168.0.0/16(rw,sync,fsid=0,crossmnt,no_subtree_check)
+/media/ studio.local(rw,sync,fsid=0,crossmnt,no_subtree_check)
