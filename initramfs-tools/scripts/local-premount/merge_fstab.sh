@@ -8,7 +8,7 @@ if [ ! -f /etc/fstab.local ]; then
 fi
 
 # Merge fstab.common and fstab.local into fstab
-cat /etc/fstab.local /etc/fstab_repo/fstab.common > /etc/fstab
+cat /etc/fstab.local /etc/fstab.common > /etc/fstab
 
 # Log the merge process
 echo "Merged fstab at $(date)" >> /var/log/merge_fstab.log
