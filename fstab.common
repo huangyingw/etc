@@ -14,6 +14,7 @@
 /dev/mapper/mldonkey /media/mldonkey ext4 defaults,nofail,auto 0 0
 /dev/mapper/secure_bcache /media/secure_bcache ext4 defaults,nofail,auto 0 0
 /dev/mapper/usb_backup_crypt_5T_1 /media/usb_backup_crypt_5T_1 ext4 defaults,nofail,auto 0 0
+/dev/mapper/usb_backup_crypt_8T_1 /media/usb_backup_crypt_8T_1 ext4 defaults,nofail,auto 0 0
 /dev/nvme0n1p2 /media/nvme0n1p2 ext4 defaults,nofail,auto 0 0
 LABEL=CANON /media/CANON exfat defaults,nofail,auto 0 0
 LABEL=Untitled /media/Untitled exfat defaults,nofail,auto 0 0
