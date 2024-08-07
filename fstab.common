@@ -15,6 +15,7 @@
 /dev/mapper/bcache_18T1 /media/bcache_18T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T1 /media/bcache_4T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_3T1 /media/bcache_3T1 ext4 defaults,nofail,auto 0 0
+/dev/mapper/bcache_3T2 /media/bcache_3T2 ext4 defaults,nofail,auto 0 0
 /dev/mapper/usb_backup_crypt_5T_1 /media/usb_backup_crypt_5T_1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/usb_backup_crypt_8T_1 /media/usb_backup_crypt_8T_1 ext4 defaults,nofail,auto 0 0
 /dev/nvme0n1p2 /media/nvme0n1p2 ext4 defaults,nofail,auto 0 0
