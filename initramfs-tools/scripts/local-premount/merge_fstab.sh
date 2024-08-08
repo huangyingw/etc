@@ -12,3 +12,4 @@ cat /etc/fstab.local /etc/fstab.common > /etc/fstab
 
 # Log the merge process
 echo "Merged fstab at $(date)" >> /var/log/merge_fstab.log
+mount -a
