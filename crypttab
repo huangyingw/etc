@@ -10,7 +10,9 @@ av81 /dev/disk/by-uuid/cf44f8e0-4f88-470a-937b-92e1cde99181  /root/loadrc/keys/k
 av82 /dev/disk/by-uuid/824d11c2-e8af-4502-8717-46b6e283d790  /root/loadrc/keys/keyfile   luks
 av91 /dev/disk/by-uuid/7a70e86c-7795-414c-b4e2-a27ed7884bf9  /root/loadrc/keys/keyfile   luks
 av92 /dev/disk/by-uuid/215b3516-e88b-4136-827f-5f51be92cc90  /root/loadrc/keys/keyfile   luks
+bcache_16T1      /dev/disk/by-uuid/e75a777f-24f2-4ac7-ba93-c504f5134bb7  /root/loadrc/keys/keyfile   luks
 bcache_18T1      /dev/disk/by-uuid/ed6e77c6-d1ee-4a6c-b786-02c1f06200d6  /root/loadrc/keys/keyfile   luks
+bcache_18T2      /dev/disk/by-uuid/f0a408cc-ac6a-4950-b6bc-1e3e3f42aad2  /root/loadrc/keys/keyfile   luks
 bcache_3T1      /dev/disk/by-uuid/ba762839-b9bd-4138-a1cb-cdc0ab7dccc6  /root/loadrc/keys/keyfile   luks
 bcache_3T2      /dev/disk/by-uuid/8dcb4f4e-4c32-4480-b1a8-511076afa13c  /root/loadrc/keys/keyfile   luks
 bcache_4T1      /dev/disk/by-uuid/c729e602-fe52-4d4b-a1c0-28198721a491  /root/loadrc/keys/keyfile   luks
