@@ -24,7 +24,7 @@ bcache_5T3      /dev/disk/by-uuid/afa45d23-e233-4f02-ba1a-8a517fcb3453  /root/lo
 bcache_5T4      /dev/disk/by-uuid/a3d7efde-803b-4b4b-9f61-061b60442e04  /root/loadrc/keys/keyfile   luks
 bcache_8T1      /dev/disk/by-uuid/e1e92974-919b-4878-93e2-904173fef421  /root/loadrc/keys/keyfile   luks
 download /dev/disk/by-uuid/5ddc4dfb-328a-4eff-94f6-e885b2912d43  /root/loadrc/keys/keyfile   luks
-driver /dev/disk/by-uuid/20137a0a-dd5b-43a4-a9c8-86b47ad4f3e0  /root/loadrc/keys/keyfile   luks
+driver /dev/disk/by-uuid/71c489cd-9b5a-45e6-9ff0-3423eea3af7c  /root/loadrc/keys/keyfile   luks
 mirror1      /dev/disk/by-uuid/1557210c-fd5f-4e61-9880-02b754f69dd6  /root/loadrc/keys/keyfile   luks
 mirror2      /dev/disk/by-uuid/695d4b27-0a6e-4563-a738-a6f1de7d8de6  /root/loadrc/keys/keyfile   luks
 mldonkey      /dev/disk/by-uuid/17a98493-8e53-449e-bdfb-4358aceac548  /root/loadrc/keys/keyfile   luks
