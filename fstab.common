@@ -31,7 +31,7 @@
 LABEL=CANON /media/CANON exfat defaults,nofail,auto 0 0
 LABEL=Untitled /media/Untitled exfat defaults,nofail,auto 0 0
 UUID="0516b73f-1bae-4b94-880a-31e40aa58c54" /media/32g_sd ext4 defaults,nofail,auto 0 0
-UUID="12974fe2-889e-4060-b497-1d6ac3fbbb4b" /media/raspberrypicn ext4 defaults,nofail,auto 0 0
+UUID="fc7a1f9e-4967-4f41-a1f5-1b5927e6c5f9" /media/raspberrypicn ext4 defaults,nofail,auto 0 0
 UUID="21605a02-1284-4bae-bd02-80937c0f56f6" /media/ex-drive2 ext4 defaults,nofail,auto 0 0
 UUID="3df37fd1-3e0c-4db1-ac30-81a5be63bc29" /media/ex-drive1 ext4 defaults,nofail,auto 0 0
 UUID="d3c125a5-e47a-4a26-ba6b-dadcaf8446df" /media/clone_zilla ext4 defaults,nofail,auto 0 0
