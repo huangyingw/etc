@@ -18,14 +18,13 @@ bcache_3T2      /dev/disk/by-uuid/8dcb4f4e-4c32-4480-b1a8-511076afa13c  /root/lo
 bcache_4T1      /dev/disk/by-uuid/c729e602-fe52-4d4b-a1c0-28198721a491  /root/loadrc/keys/keyfile   luks
 bcache_4T2      /dev/disk/by-uuid/a3c4b997-cf4b-4b89-ae5d-74ec5b3baa74  /root/loadrc/keys/keyfile   luks
 bcache_4T3      /dev/disk/by-uuid/84fd8a85-f814-499f-9005-b79723170dea  /root/loadrc/keys/keyfile   luks
-bcache_4T4      /dev/disk/by-uuid/cf7f02ca-2670-4fdb-b28b-a715e896d7de  /root/loadrc/keys/keyfile   luks
 bcache_5T1      /dev/disk/by-uuid/6b0ff315-e4cb-4056-ab43-66aa2b75a8d5  /root/loadrc/keys/keyfile   luks
 bcache_5T2      /dev/disk/by-uuid/b7a7d513-fe74-4546-9b8b-fa878ba9a351  /root/loadrc/keys/keyfile   luks
 bcache_5T3      /dev/disk/by-uuid/afa45d23-e233-4f02-ba1a-8a517fcb3453  /root/loadrc/keys/keyfile   luks
 bcache_5T4      /dev/disk/by-uuid/a3d7efde-803b-4b4b-9f61-061b60442e04  /root/loadrc/keys/keyfile   luks
 bcache_8T1      /dev/disk/by-uuid/e1e92974-919b-4878-93e2-904173fef421  /root/loadrc/keys/keyfile   luks
 download /dev/disk/by-uuid/5ddc4dfb-328a-4eff-94f6-e885b2912d43  /root/loadrc/keys/keyfile   luks
-driver /dev/disk/by-uuid/71c489cd-9b5a-45e6-9ff0-3423eea3af7c  /root/loadrc/keys/keyfile   luks
+driver      /dev/disk/by-uuid/cf7f02ca-2670-4fdb-b28b-a715e896d7de  /root/loadrc/keys/keyfile   luks
 mirror1      /dev/disk/by-uuid/1557210c-fd5f-4e61-9880-02b754f69dd6  /root/loadrc/keys/keyfile   luks
 mirror2      /dev/disk/by-uuid/695d4b27-0a6e-4563-a738-a6f1de7d8de6  /root/loadrc/keys/keyfile   luks
 mldonkey      /dev/disk/by-uuid/17a98493-8e53-449e-bdfb-4358aceac548  /root/loadrc/keys/keyfile   luks
