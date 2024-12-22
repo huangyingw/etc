@@ -15,6 +15,7 @@
 /dev/mapper/bcache_4T1 /media/bcache_4T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T2 /media/bcache_4T2 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T3 /media/bcache_4T3_snapraid_parity ext4 defaults,nofail,auto 0 0
+/dev/mapper/bcache_4T4 /media/bcache_4T4 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T1 /media/bcache_5T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T2 /media/bcache_5T2 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T3 /media/bcache_5T3_snapraid_parity ext4 defaults,nofail,auto 0 0
