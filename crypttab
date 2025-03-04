@@ -16,10 +16,11 @@ bcache_18T2      /dev/disk/by-uuid/f0a408cc-ac6a-4950-b6bc-1e3e3f42aad2  /root/l
 bcache_3T1      /dev/disk/by-uuid/ba762839-b9bd-4138-a1cb-cdc0ab7dccc6  /root/loadrc/keys/keyfile   luks
 bcache_3T2      /dev/disk/by-uuid/8dcb4f4e-4c32-4480-b1a8-511076afa13c  /root/loadrc/keys/keyfile   luks
 bcache_4T1      /dev/disk/by-uuid/c729e602-fe52-4d4b-a1c0-28198721a491  /root/loadrc/keys/keyfile   luks
-bcache_4T2      /dev/disk/by-uuid/a3c4b997-cf4b-4b89-ae5d-74ec5b3baa74  /root/loadrc/keys/keyfile   luks
+bcache_4T2      /dev/disk/by-uuid/dc5ea4cd-3237-42a5-863f-e5a64e2eaa9d  /root/loadrc/keys/keyfile   luks
 bcache_4T3      /dev/disk/by-uuid/84fd8a85-f814-499f-9005-b79723170dea  /root/loadrc/keys/keyfile   luks
 usdriver_old      /dev/disk/by-uuid/28f6c5ff-4896-4ea8-8116-c3f3e14d0bf9  /root/loadrc/keys/keyfile   luks
 usdriver      /dev/disk/by-uuid/81ad0fba-9f0a-4a07-9e99-3fa2d934a87e  /root/loadrc/keys/keyfile   luks
+bcache_5T1      /dev/disk/by-uuid/ea1bfe92-a67b-4bea-a95b-d6eabccad3b5  /root/loadrc/keys/keyfile   luks
 bcache_5T2      /dev/disk/by-uuid/b7a7d513-fe74-4546-9b8b-fa878ba9a351  /root/loadrc/keys/keyfile   luks
 bcache_5T3      /dev/disk/by-uuid/afa45d23-e233-4f02-ba1a-8a517fcb3453  /root/loadrc/keys/keyfile   luks
 bcache_5T4      /dev/disk/by-uuid/a3d7efde-803b-4b4b-9f61-061b60442e04  /root/loadrc/keys/keyfile   luks
