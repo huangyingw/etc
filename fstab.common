@@ -29,7 +29,6 @@
 /dev/mapper/mldonkey /media/mldonkey ext4 defaults,nofail,auto 0 0
 /dev/mapper/usb_backup_crypt_5T_1 /media/usb_backup_crypt_5T_1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/usb_backup_crypt_8T_1 /media/usb_backup_crypt_8T_1 ext4 defaults,nofail,auto 0 0
-/dev/nvme0n1p2 /media/nvme0n1p2 ext4 defaults,nofail,auto 0 0
 LABEL=CANON /media/CANON exfat defaults,nofail,auto 0 0
 LABEL=Untitled /media/Untitled exfat defaults,nofail,auto 0 0
 UUID="0516b73f-1bae-4b94-880a-31e40aa58c54" /media/32g_sd ext4 defaults,nofail,auto 0 0
