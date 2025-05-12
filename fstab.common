@@ -14,13 +14,13 @@
 /dev/mapper/bcache_3T2 /media/bcache_3T2 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T1 /media/bcache_4T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T2 /media/bcache_4T2 ext4 defaults,nofail,auto 0 0
-/dev/mapper/bcache_4T3 /media/bcache_4T3_snapraid_parity ext4 defaults,nofail,auto 0 0
+/dev/mapper/bcache_4T3 /media/bcache_4T3 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_4T4 /media/bcache_4T4 ext4 defaults,nofail,auto 0 0
 /dev/mapper/usdriver /media/usdriver ext4 defaults,nofail,auto 0 0
 /dev/mapper/usdriver_old /media/usdriver_old ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T1 /media/bcache_5T1 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T2 /media/bcache_5T2 ext4 defaults,nofail,auto 0 0
-/dev/mapper/bcache_5T3 /media/bcache_5T3_snapraid_parity ext4 defaults,nofail,auto 0 0
+/dev/mapper/bcache_5T3 /media/bcache_5T3 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T4 /media/bcache_5T4 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_8T1 /media/bcache_8T1_snapraid_parity ext4 defaults,nofail,auto 0 0
 /dev/mapper/download /media/download ext4 defaults,nofail,auto 0 0
@@ -37,5 +37,6 @@ UUID="fc7a1f9e-4967-4f41-a1f5-1b5927e6c5f9" /media/raspberrypicn ext4 defaults,n
 UUID="21605a02-1284-4bae-bd02-80937c0f56f6" /media/ex-drive2 ext4 defaults,nofail,auto 0 0
 UUID="3df37fd1-3e0c-4db1-ac30-81a5be63bc29" /media/ex-drive1 ext4 defaults,nofail,auto 0 0
 UUID="d3c125a5-e47a-4a26-ba6b-dadcaf8446df" /media/clone_zilla ext4 defaults,nofail,auto 0 0
+UUID="75237230-3bc9-41c2-b259-d0e34fd8d1a0" /media/nvme ext4 defaults,nofail,auto 0 0
 UUID=8303-6F23 /media/32g_usb vfat defaults,nofail,auto,umask=022 0 0
 UUID=EF7F-F84E /media/cross_system exfat defaults,nofail,auto,umask=022 0 0
