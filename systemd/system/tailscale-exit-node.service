@@ -1,0 +1,12 @@
+[Unit]
+Description=Tailscale Exit Node Service
+After=network-online.target tailscaled.service
+Wants=network-online.target tailscaled.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/tailscale up --advertise-exit-node
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
