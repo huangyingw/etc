@@ -1,1 +1,0 @@
-SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="10:7b:44:f0:e7:2f", NAME="eth2"
