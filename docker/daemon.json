@@ -1,10 +1,14 @@
 {
-    "default-runtime": "nvidia",
-    "runtimes": {
-        "nvidia": {
-            "args": [],
-            "path": "nvidia-container-runtime"
-        }
-    },
-    "experimental": true
+  "default-runtime": "nvidia",
+  "runtimes": {
+    "nvidia": {
+      "args": [],
+      "path": "nvidia-container-runtime"
+    }
+  },
+  "experimental": true,
+  "dns": [
+    "100.100.100.100",
+    "8.8.8.8"
+  ]
 }
