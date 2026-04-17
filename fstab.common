@@ -22,7 +22,7 @@
 /dev/mapper/bcache_5T2 /media/bcache_5T2 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T3 /media/bcache_5T3 ext4 defaults,nofail,auto 0 0
 /dev/mapper/bcache_5T4 /media/bcache_5T4 ext4 defaults,nofail,auto 0 0
-/dev/mapper/bcache_8T1 /media/bcache_8T1_snapraid_parity ext4 defaults,nofail,auto 0 0
+/dev/mapper/nvme_usb /media/nvme_usb ext4 defaults,nofail,auto 0 0
 /dev/mapper/download /media/download ext4 defaults,nofail,auto 0 0
 /dev/mapper/driver /media/driver ext4 defaults,nofail,auto 0 0
 /dev/mapper/mirror1 /media/mirror1 ext4 defaults,nofail,auto 0 0

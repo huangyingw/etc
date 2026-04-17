@@ -40,3 +40,4 @@ usb_backup_crypt_8T_2      /dev/disk/by-uuid/4e1163f1-0df8-4416-9afd-b674808f87f
 vserver_crypt      /dev/disk/by-uuid/a4ff213e-f734-4c88-aba9-2ce733d0de76  /etc/luks-keys/keyfile   luks
 zarchive      /dev/disk/by-uuid/69251abc-347f-4b64-be99-809da622893a  /etc/luks-keys/keyfile   luks
 hkdriver /dev/disk/by-uuid/57ec7fe9-ea3e-469f-86ad-25927aa1f7a2  /etc/luks-keys/keyfile   luks
+nvme_usb /dev/disk/by-uuid/af272b4c-d2c6-42dc-8f63-542a4e41ad4f  /etc/luks-keys/keyfile   luks
