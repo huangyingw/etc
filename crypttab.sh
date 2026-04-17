@@ -15,6 +15,12 @@ decrypt_device() {
     local key=$3
     local opts=$4
 
+    # 已经解锁过则跳过（cryptsetup luksOpen 会报 Device already exists 退出码 5）
+    if [[ -e "/dev/mapper/$name" ]]; then
+        echo "[~] 设备已解锁，跳过: $name"
+        return 0
+    fi
+
     # 执行解密（使用sudo）
     if sudo cryptsetup luksOpen "$dev" "$name" --key-file "$key" 2>/dev/null; then
         echo "[✓] 成功解密设备: $name"
